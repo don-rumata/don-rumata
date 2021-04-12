@@ -1,13 +1,28 @@
 ### Hello, world!
 
-I'm on:
-  - [ru.StackOverflow.com](https://ru.stackoverflow.com/users/191416/don-rumata?tab=profile);
-  - [Juick.com](https://juick.com/don-Rumata);
-  - [GitLab](https://gitlab.com/don-Rumata);
+```yaml
+i_am_on:
+  - stackoverflow: https://ru.stackoverflow.com/users/191416/don-rumata?tab=profile
+  - juick: https://juick.com/don-rumata
+  - gitlab: https://gitlab.com/don-rumata
+  - vk: null
+  - fb: null
+  - instagram: null
+  - tiktok: null
+  - xmpp: don_rumata@xmpp.ru
+  - steam: https://steamcommunity.com/id/don-rumata-ru
+    - factorio_achievements: https://steamcommunity.com/id/don-rumata-ru/stats/427520/achievements/
 
- My [Factorio](https://www.factorio.com/) [achievements](https://steamcommunity.com/id/don-rumata-ru/stats/427520/achievements/).
- 
- xmpp:don_rumata@xmpp.ru
+i_love:
+  - computers:
+    - linux
+  - music:
+    - blues
+    - rock_n_roll
+    - rock
+    - hard_rock
+    - rockabilly
+```
 
 <!-- [![](https://ru.stackoverflow.com/users/flair/191416.png?theme=dark "ru.stackoverflow.com")](https://ru.stackoverflow.com/users/191416/don-rumata?tab=profile) -->
 
