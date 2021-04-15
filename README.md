@@ -24,18 +24,21 @@
       zoom: null
     love:
       computers:
-        linux
-        ansible
-        kiss
-        yagni
+      - linux:
+        - bash
+        - ansible
+      - yaml
+      - kiss
+      - yagni
       music:
-        blues
-        rock-n-roll
-        rock
-        hard_rock
-        rockabilly
+      - blues
+      - rock-n-roll
+      - rock
+      - hard rock
+      - rockabilly
       walk:
       - evening
+      - night
       animals:
       - rats
       - penguins
@@ -43,7 +46,13 @@
         - teenage
         - mutant
         - ninja
+      colors:
+      - red
+      - blue
+      - grey
+      - any colour you like
     hate:
-      lists
-      irony
+    - paper
+    - lists
+    - irony
 ```
