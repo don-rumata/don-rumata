@@ -22,6 +22,7 @@
       whatsapp: null
       viber: null
       zoom: null
+      sms: TWF5YmUuIE1heWJlIG5vdC4gTWF5YmUgZnVjayB5b3Vyc2VsZi4K
     love:
       computers:
       - linux:
@@ -31,40 +32,6 @@
       - yaml
       - kiss
       - yagni
-      - games:
-        - fallout:
-          - 1 (fargus)
-          - 2 (fargus)
-        - gta:
-          - 1
-          - 2
-          - sa
-        - tes:
-          - morrowind
-        - carmageddon:
-          - 1
-          - 2
-          - 3
-        - elastomania
-        - quake:
-          - 2
-        - starcraft:
-          - 1
-        - track attack
-        - deathdrome
-        - allods:
-          - 1
-          - 2
-        - full throttle
-        - neverhood
-        - mr. robot
-        - nox
-        - postal:
-          - 2
-        - stubbs the zombie
-        - worms:
-          - armageddon
-          - world party
       music:
       - blues
       - rock-n-roll
@@ -77,6 +44,7 @@
       animals:
       - rats
       - penguins
+      - capybaras
       - turtles:
         - teenage
         - mutant
@@ -89,5 +57,7 @@
     hate:
     - paper
     - lists
+    - idiots
+    - myself
     - irony
 ```
