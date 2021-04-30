@@ -25,11 +25,46 @@
     love:
       computers:
       - linux:
+        - ubuntu
         - bash
         - ansible
       - yaml
       - kiss
       - yagni
+      - games:
+        - fallout:
+          - 1 (fargus)
+          - 2 (fargus)
+        - gta:
+          - 1
+          - 2
+          - sa
+        - tes:
+          - morrowind
+        - carmageddon:
+          - 1
+          - 2
+          - 3
+        - elastomania
+        - quake:
+          - 2
+        - starcraft:
+          - 1
+        - track attack
+        - deathdrome
+        - allods:
+          - 1
+          - 2
+        - full throttle
+        - neverhood
+        - mr. robot
+        - nox
+        - postal:
+          - 2
+        - stubbs the zombie
+        - worms:
+          - armageddon
+          - world party
       music:
       - blues
       - rock-n-roll
