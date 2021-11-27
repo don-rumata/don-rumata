@@ -24,6 +24,7 @@
       viber: null
       zoom: null
       sms: TWF5YmUuIE1heWJlIG5vdC4gTWF5YmUgZnVjayB5b3Vyc2VsZi4K
+      email: If you know git - you will find email
     love:
       computers:
       - linux:
