@@ -63,3 +63,11 @@
     - myself
     - irony
 ```
+
+```
+NN   NN  OOOOO  WW      WW   AAA   RRRRRR  
+NNN  NN OO   OO WW      WW  AAAAA  RR   RR 
+NN N NN OO   OO WW   W  WW AA   AA RRRRRR  
+NN  NNN OO   OO  WW WWW WW AAAAAAA RR  RR  
+NN   NN  OOOO0    WW   WW  AA   AA RR   RR 
+```
