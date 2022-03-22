@@ -62,6 +62,7 @@
     - idiots
     - myself
     - irony
+    - WAR
 ```
 
 ```
