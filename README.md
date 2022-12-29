@@ -14,7 +14,9 @@
       steam:
         id: https://steamcommunity.com/id/don-rumata-ru
         factorio:
-          achievements: https://steamcommunity.com/id/don-rumata-ru/stats/427520/achievements
+          achievements:
+            url: https://steamcommunity.com/id/don-rumata-ru/stats/427520/achievements
+            lazy bastard: true
       gog: https://www.gog.com/u/don-Rumata-ru
     im:
       xmpp: don_rumata@xmpp.ru
