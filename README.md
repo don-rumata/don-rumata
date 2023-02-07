@@ -7,6 +7,7 @@
       stackoverflow: https://ru.stackoverflow.com/users/191416/don-rumata?tab=profile
       juick: https://juick.com/don-Rumata
       gitlab: https://gitlab.com/don-rumata
+      launchpad: https://launchpad.net/~don-rumata-ru
       vk: null
       fb: null
       instagram: null
