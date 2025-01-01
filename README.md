@@ -55,6 +55,7 @@
         - teenage
         - mutant
         - ninja
+      - dogs (you gotta be crazy)
       colors:
       - red
       - blue
